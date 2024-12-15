@@ -1,0 +1,12 @@
+[project]
+name = "anysearch_backend"
+version = "0.1.0"
+description = "Backend for AnySearch"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckduckgo-search>=6.4.1",
+    "groq>=0.13.0",
+    "langchain-cerebras>=0.3.0",
+    "langchain-core>=0.3.24",
+]
