@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "fabiospampinato.vscode-diff",
+        "mkhl.direnv",
+        "usernamehw.errorlens",
+        "tamasfe.even-better-toml",
+        "flox.flox",
+        "github.copilot",
+        "christian-kohler.path-intellisense",
+        "rust-lang.rust-analyzer",
+        "wakatime.vscode-wakatime"
+    ]
+}
